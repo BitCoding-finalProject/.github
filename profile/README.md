@@ -1,12 +1,59 @@
-## Hi there 👋
+# 정치인 AI 챗봇 프로젝트 - 위기의 대한민국
 
-<!--
+## 📅 프로젝트 기간
+2024년 4월 24일~ 2024년 6월 4일
 
-**Here are some ideas to get you started:**
+## 🚀 프로젝트 개요
+양극화된 현대 사회에서 유권자들이 더 합리적인 판단을 내릴 수 있도록 돕는
+정치인 인공지능(AI-X) 프로젝트를 진행하게 되었습니다.   
+정보를 쉽고 빠르며 정확하게 전달하여 건강한 정치 문화를 조성하는 것을 목표로 합니다.   
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 👥 팀 소개
+### Team.BitCoding - finalProject
+- 박성웅
+- 강영주
+- 박채현
+- 정원제
+
+## 📜 프로젝트 배경 및 필요성
+현재 정치 무대에서 20대부터 30대에 이르는 세대 간 극심한 양극화가 문제로 대두되고 있습니다.   
+이로 인해 감정적 대립을 유발하는 네거티브 전략이 만연하고, 유권자들은 상대방의 잘못을 부각시키는 논리에 의존하는 경향이 있습니다.    
+이러한 상황에서, 저희는 LLM을 활용하여 유권자들이 더욱 합리적인 판단을 내릴 수 있도록 지원하는 것을 목표로 하고 있습니다.    
+
+## 🎯 프로젝트 주제 및 기능
+- **정치인의 말투를 모방하는 RAG 챗봇 개발**
+- **정치인 데이터 시각화**
+- **정치 관련 커뮤니티 구축**
+- **사용자의 정치 성향을 파악할 수 있는 테스트 개발**
+
+### 기대효과
+- 접근성 향상
+- 흥미 유발
+- 부담 감소
+
+### 정치인 모니터링 시스템
+- 정치인 활동 모니터링
+- 분석 및 평가
+- 국민 의견 수렴
+- 정보 제공
+- 알림 서비스
+
+### 정치 커뮤니티
+- 정치 성향 테스트(MBTI 유형)
+- 건전한 온라인 정치 커뮤니티 제공
+- 오프라인과 온라인의 양극화 극복
+
+## 🛠 개발 환경
+- **프로그래밍 언어**: Python 3.10 (StreamLit), 예정: JavaScript (Node.Js, React)
+- **프레임워크**: Langchain
+- **데이터베이스**: MySQL, VectorDB 중 선택 (FAISS / Weaviate / Pinecone)
+- **클라우드 서비스**: AWS
+
+## 🚧 WBS
+1. 프로젝트 기획 및 설계
+2. 데이터 수집 및 전처리
+3. RAG 챗봇 모델 개발
+4. 데이터 시각화 기능 개발
+5. 커뮤니티 및 정치 성향 테스트 기능 개발
+6. 시스템 통합 및 테스트
+7. 배포 및 유지보수 
